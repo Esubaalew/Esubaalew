@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esubalew Chekol</h1>
 <h3 align="center">Experienced Python [Django, Flask and FASTAPI], Javascript[Node.js, REACT and REACTNATIVE] and
- Telegram bot development. I can  work in team and
+ Telegram bot developer based in Ethiopia. I can  work in team and
  learn new things very fast. Let’s do it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esubaalew&label=Profile%20views&color=0e75b6&style=flat" alt="esubaalew" /> </p>
