@@ -9,15 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/esubaalew" target="blank"><img src="https://img.shields.io/twitter/follow/esubaalew?logo=twitter&style=for-the-badge" alt="esubaalew" /></a> </p>
 
-- 🔭 I’m currently learning on **MobileAPPS**
-
-- 🌱 I’m currently learning **Android_development, Fronted development**
-
 - 👨‍💻 All of my projects are available at [esubaalew.netlify.com](esubaalew.netlify.com)
 
 - 📝 I regularly write articles on [esubalew.medium.com](esubalew.medium.com)
-
-- 💬 Ask me about **Web Scraping, Telegram bot development. Mobile app development development**
 
 - 📫 How to reach me **https://esubaalew.t.me/**
 
