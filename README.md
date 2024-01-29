@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/esubaalew" target="blank"><img src="https://img.shields.io/twitter/follow/esubaalew?logo=twitter&style=for-the-badge" alt="esubaalew" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [esubaalew.netlify.com](esubaalew.netlify.com)
 
 - 📝 I regularly write articles on [esubalew.medium.com](esubalew.medium.com)
 
