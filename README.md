@@ -9,9 +9,6 @@ A JavaScript,  Python and Kotlin Developer
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esubaalew&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
